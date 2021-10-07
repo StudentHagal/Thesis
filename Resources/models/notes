@@ -1,6 +1,10 @@
 This folder is to store various models built with different options.
 
+Classification:
 Option 1 = Statistical label, Outlier, Random State=1, SMOTE
 Option 2 = Statistical label, No Outlier, Random State=1, SMOTE
 Option 3 = DBSCAN, Random State=1, SMOTE
 Option 4 = Kmeans, Random State=1, SMOTE
+
+Regression:
+OLS, Ridge, RF-reg = Statistical Labeling (OR), Maintenance data size (6148, 7)
